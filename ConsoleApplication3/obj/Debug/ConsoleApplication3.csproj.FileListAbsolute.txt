@@ -1,0 +1,12 @@
+c:\users\hj222hi\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\hj222hi\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\hj222hi\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\hj222hi\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\hj222hi\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\hj222hi\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+P:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+P:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+P:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+P:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+P:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+P:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
